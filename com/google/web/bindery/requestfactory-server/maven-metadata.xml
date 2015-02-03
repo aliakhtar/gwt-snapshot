@@ -3,10 +3,9 @@
   <groupId>com.google.web.bindery</groupId>
   <artifactId>requestfactory-server</artifactId>
   <versioning>
-    <release>2.8.0-MCM</release>
     <versions>
-      <version>2.8.0-MCM</version>
+      <version>2.8.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150203073118</lastUpdated>
+    <lastUpdated>20150219080430</lastUpdated>
   </versioning>
 </metadata>
